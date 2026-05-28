@@ -2,6 +2,8 @@
 
 A pixel-perfect, fully responsive React.js clone of the CRED fintech website featuring premium dark theme design, smooth animations, and NeoPOP UI elements.
 
+**🔗 Live Demo:** [https://website-cred.vercel.app/](https://website-cred.vercel.app/)
+
 ## Tech Stack
 
 | Technology | Purpose |
